@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thoufeeq</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 🔭 I’m currently working on [Smart Energy consveration using IOT and Machine Learning](https://github.com/imran601021/Energy-Consuption-using-ML)
-
 - 👨‍💻 All of my projects are available at [https://github.com/imran601021](https://github.com/imran601021)
 
 - 📫 How to reach me **imranakm601201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/thoufeeq-551256244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thoufeeq-551256244" height="30" width="40" /></a>
+<a href="linkedin.com/in/thoufeeq-551256244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thoufeeq-551256244" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/imranakm601201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/imranakm601201" height="30" width="40" /></a>
 </p>
 
